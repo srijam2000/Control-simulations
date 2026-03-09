@@ -20,5 +20,6 @@ Prerequisites
 You need Python and the following libraries: pip install numpy matplotlib control
 Execution
 Simply run the script: python control_sim(1).py
+
 Development Note
 This project was developed as part of academics of Intelligent Control Systems. The simulation logic was originally prototyped in Google Colab and refined into a standalone Python script for better modularity.
